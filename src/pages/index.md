@@ -1,21 +1,18 @@
 ---
 templateKey: index-page
-title: Great coffee with a conscience
-image: /img/home-jumbotron.jpg
-heading: Great coffee with a conscience
-subheading: Support sustainable farming while enjoying a cup
+title: CUPSICUM
+image: /img/cups.jpg
+heading: And then CUPSICUM was born.
+subheading: There is U in every CUP
 mainpitch:
-  title: Why Kaldi
-  description: >
-    Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
-description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+  title: History of Cupsicum
+  description: >+
+    Hi, I'm Victoria and I live in Halifax, Canada. But I've been travelling
+    around the world for many years and my passion stays the same - I'm in love
+    with the finest porcelain: cups, teapots and vintage lifestyle.
+
+description: I'm collecting cups, read old cooking magazines, prepare and print
+  postcards for your enjoyment.
 intro:
   blurbs:
     - image: /img/coffee.png
